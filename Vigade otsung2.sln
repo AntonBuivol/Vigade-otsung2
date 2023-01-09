@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vigade otsung2", "Vigade otsung2\Vigade otsung2.pyproj", "{E3520EB1-2261-40F6-A2B7-DC5093F86D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3520EB1-2261-40F6-A2B7-DC5093F86D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3520EB1-2261-40F6-A2B7-DC5093F86D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7202E501-FE2B-40FF-B35E-F2D5B131E3E3}
+	EndGlobalSection
+EndGlobal
